@@ -23,3 +23,26 @@
 </br>Exercise 7 [jsFiddle](https://jsfiddle.net/ddrdushy/0wb9ym4z/4/)
 </br>Exercise 8 [jsFiddle](https://jsfiddle.net/ddrdushy/0wb9ym4z/5/)
 </br>Exercise 9 [jsFiddle](https://jsfiddle.net/ddrdushy/0wb9ym4z/7/)
+
+
+## Day 3 (2017-04-13)
+  - usage of `v-on:keyup.enter.space`
+  - usage of `v-model=<property>`
+  - usage of `computed` Property
+  - usage of `watch` Property
+  - shorthand codes `v-on = @` || `v-bind = :`
+  - added CSS class dynamically
+  - completed First Module
+
+</br>Exercise 1 [jsFiddle](https://jsfiddle.net/ddrdushy/tcz6qmxp/1/)
+</br>Exercise 2 [jsFiddle](https://jsfiddle.net/ddrdushy/tcz6qmxp/2/)
+</br>Exercise 3 [jsFiddle](https://jsfiddle.net/ddrdushy/tcz6qmxp/3/)
+</br>Exercise 4 [jsFiddle](https://jsfiddle.net/ddrdushy/o60z7bnf/)
+</br>Exercise 5 [jsFiddle](https://jsfiddle.net/ddrdushy/0wb9ym4z/2/)
+</br>Exercise 6 [jsFiddle](https://jsfiddle.net/ddrdushy/w3ca60sL/1/)
+</br>Exercise 7 [jsFiddle](https://jsfiddle.net/ddrdushy/w3ca60sL/2/)
+</br>Exercise 8 [jsFiddle](https://jsfiddle.net/ddrdushy/zbk07qdr/)
+</br>Exercise 9 [jsFiddle](https://jsfiddle.net/ddrdushy/zbk07qdr/1/)
+</br>Exercise 10 [jsFiddle](https://jsfiddle.net/ddrdushy/zbk07qdr/2/)
+</br>Exercise 11 [jsFiddle](https://jsfiddle.net/ddrdushy/6qd60aL9/1/)
+</br>Exercise 12 [jsFiddle](https://jsfiddle.net/ddrdushy/6qd60aL9/2/)
