@@ -46,3 +46,20 @@
 </br>Exercise 10 [jsFiddle](https://jsfiddle.net/ddrdushy/zbk07qdr/2/)
 </br>Exercise 11 [jsFiddle](https://jsfiddle.net/ddrdushy/6qd60aL9/1/)
 </br>Exercise 12 [jsFiddle](https://jsfiddle.net/ddrdushy/6qd60aL9/2/)
+
+## Day 4 (2017-04-14)
+  - usage of `v-if`
+  - usage of `v-else`
+  - usage of `v-show`
+  - usage of `v-for`
+
+</br>Exercise 1 [jsFiddle](https://jsfiddle.net/ddrdushy/55t9tq6o/)
+</br>Exercise 2 [jsFiddle](https://jsfiddle.net/ddrdushy/55t9tq6o/1/)
+</br>Exercise 3 [jsFiddle](https://jsfiddle.net/ddrdushy/55t9tq6o/2/)
+</br>Exercise 4 [jsFiddle](https://jsfiddle.net/ddrdushy/55t9tq6o/3/)
+</br>Exercise 5 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/)
+</br>Exercise 6 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/1/)
+</br>Exercise 7 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/2/)
+</br>Exercise 8 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/3/)
+</br>Exercise 9 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/4/)
+</br>Exercise 10 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/5/)
