@@ -4,8 +4,8 @@
         <title></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/app.css" rel="stylesheet">
         <link href="css/foundation.min.css" rel="stylesheet">
+        <link href="css/app.css" rel="stylesheet">
         <script src="vue.js"></script>
     </head>
     <body>
@@ -15,7 +15,7 @@
 	    			<h1 class="text-center">YOU</h1>
 	    			<div class="healthbar">
 	    				<div class="healthbar text-center" 
-	    				style="background-color: green; margin: 0; color: white"
+	    				style="background-color: green; margin: 0; color: white;"
 	    				:style="{width: playerHealth + '%'}">
 	    					{{ playerHealth }}
 	    				</div>
@@ -26,7 +26,7 @@
 	    			<h1 class="text-center">MONSTER</h1>
 	    			<div class="healthbar">
 	    				<div class="healthbar text-center" 
-	    				style="background-color: green; margin: 0; color: white"
+	    				style= "background-color: green; margin: 0; color: white;"
 	    				:style="{width: monsterHealth + '%'}">
 	    					{{ monsterHealth }}
 	    				</div>
@@ -52,7 +52,7 @@
 	    	<section class="row log" v-if="turns.length > 0">
 	    		<div class="small-12 columns">
 	    			<ul>
-	    				<li v-for="turn in turns">
+	    				<li v-for="turn in turns" :class="{'player-turn': turn.isPlayer, 'monster-turn':!turn.isPlayer}">
 	    					{{ turn.text }}
 	    				</li>
 	    			</ul>
