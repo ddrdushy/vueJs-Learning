@@ -65,4 +65,14 @@
 </br>Exercise 10 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/5/)
 
 ## Day 5 (2017-04-17)
-Simple vue.js Application [Monster Slayer Game](https://codepen.io/ddrdushy/full/YVXvEv/).
+  - Simple vue.js Application [Monster Slayer Game](https://codepen.io/ddrdushy/full/YVXvEv/).
+  - Multiple VueInstance Example [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/).
+  - access Vue instance properties from outside of the vue instance [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/1/).
+  - understand `el` and `data` properties [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/2/).
+  - understand `$refs` to access the element [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/3/).
+  - updating DOM with `$refs` [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/4/).
+  - update element controled by Vue Dynamically [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/5/).
+  - using template property in Vue [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/6/).
+  - Vue Component simple example [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/7/).
+  - understand the VueJs DOM updation.
+  - understand the `VueJs Instance Life Cycle` [jsFiddle](https://jsfiddle.net/ddrdushy/yL1jnLgf/1/).
