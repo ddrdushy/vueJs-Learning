@@ -63,3 +63,6 @@
 </br>Exercise 8 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/3/)
 </br>Exercise 9 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/4/)
 </br>Exercise 10 [jsFiddle](https://jsfiddle.net/ddrdushy/nz2y2f7h/5/)
+
+## Day 5 (2017-04-17)
+Simple vue.js Application [Monster Slayer Game](https://codepen.io/ddrdushy/full/YVXvEv/).
