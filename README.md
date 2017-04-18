@@ -78,4 +78,14 @@
   - understand the `VueJs Instance Life Cycle` [jsFiddle](https://jsfiddle.net/ddrdushy/yL1jnLgf/1/).
 
 ## Day 6 (2017-04-18)
-  - usage of `Vue-cli`
+  - usage of `Vue-cli`.
+  - Vue Component Introduction [jsFiddle](https://jsfiddle.net/ddrdushy/pdtxgmLw/).
+  - multiple Instance of Vue Component [jsFiddle](https://jsfiddle.net/ddrdushy/pdtxgmLw/1/).
+  - constrains in template [jsFiddle](https://jsfiddle.net/ddrdushy/pdtxgmLw/2/).
+  - Register Vue components Globally and Locally [jsFiddle](https://jsfiddle.net/ddrdushy/pdtxgmLw/3/).
+  - Created the First Component in Project.
+  - Created global and local Components.
+  - Communicate between Components.
+  - Understand other function access in Components.
+  - Validating Props.
+  - Updating the Parent element using Event `$emit`.
