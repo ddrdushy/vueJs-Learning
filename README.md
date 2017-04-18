@@ -76,3 +76,6 @@
   - Vue Component simple example [jsFiddle](https://jsfiddle.net/ddrdushy/Ltjve4zg/7/).
   - understand the VueJs DOM updation.
   - understand the `VueJs Instance Life Cycle` [jsFiddle](https://jsfiddle.net/ddrdushy/yL1jnLgf/1/).
+
+## Day 6 (2017-04-18)
+  - usage of `Vue-cli`
