@@ -89,3 +89,8 @@
   - Understand other function access in Components.
   - Validating Props.
   - Updating the Parent element using Event `$emit`.
+
+## Day 7 (2017-04-24)
+  - communicate with child component to child component.
+  - `event bus` for communication.
+  
